@@ -1,0 +1,27 @@
+{
+  "name": "mynba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.1",
+    "jquery": "^3.6.0",
+    "nodemon": "^2.0.16",
+    "urllib": "^2.38.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loai007/My-NBA-Team.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loai007/My-NBA-Team/issues"
+  },
+  "homepage": "https://github.com/loai007/My-NBA-Team#readme"
+}
